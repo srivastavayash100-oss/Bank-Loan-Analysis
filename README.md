@@ -30,7 +30,7 @@ An end-to-end data analytics project evaluating **38,576 bank loan applications*
 ---
 
 ## Tools & Skills Used
-* **SQL (MS SQL Server / MySQL):** Aggregations, `CASE` statements, date functions (`MONTH`, `DATENAME`), `GROUP BY`, and KPI validation against dashboard metrics.
+* **SQL (MySQL):** Aggregations, `CASE` statements, date functions (`MONTH`, `DATENAME`), `GROUP BY`, and KPI validation against dashboard metrics.
 * **Power BI Desktop:** Power Query data profiling, custom `CALENDAR` date table, Star Schema relationship modeling, Time Intelligence DAX (`TOTALMTD`, `DATESMTD`, `DATEADD`), Field Parameters, and custom page navigation.
 
 ---
