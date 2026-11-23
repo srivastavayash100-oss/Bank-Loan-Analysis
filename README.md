@@ -24,7 +24,7 @@ An end-to-end data analytics project evaluating **38,576 bank loan applications*
 
 ## Dashboard Pages & Features
 1. **Summary Dashboard:** Executive KPI cards with MTD and MoM comparisons, Good vs. Bad loan donut charts, and a Loan Status breakdown table.
-2. **Overview Dashboard:** Interactive trend and demographic analysis by Month, State (Shape Map), Term, Employee Length, Loan Purpose, and Home Ownership—powered by **Field Parameters** to toggle dynamically between *Total Applications*, *Funded Amount*, and *Amount Received*.
+2. **Overview Dashboard:** Interactive trend and demographic analysis by Month, State (Shape Map), Term, Employee Length, Loan Purpose, and Home Ownership, powered by **Field Parameters** to toggle dynamically between *Total Applications*, *Funded Amount*, and *Amount Received*.
 3. **Details Dashboard:** Granular loan-level tabular view with slicers for State, Grade, and Loan Quality (*Good vs. Bad Loan*).
 
 ---
