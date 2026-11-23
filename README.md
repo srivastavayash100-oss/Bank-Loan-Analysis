@@ -38,10 +38,10 @@ An end-to-end data analytics project evaluating **38,576 bank loan applications*
 ## Dashboard Previews
 
 ### 1. Summary Dashboard
-![Summary Dashboard](images/summary_dashboard.png)
+![Summary Dashboard](summary_dashboard.png)
 
 ### 2. Overview Dashboard
-![Overview Dashboard](images/overview_dashboard.png)
+![Overview Dashboard](overview_dashboard.png)
 
 ### 3. Details Dashboard
-![Details Dashboard](images/details_dashboard.png)
+![Details Dashboard](details_dashboard.png)
